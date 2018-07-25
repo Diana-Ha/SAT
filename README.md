@@ -3,7 +3,7 @@ Goal: How to improve SAT exam participation rates
 Data Provided: SAT (filename: "sat.csv") and ACT (filename: "act.csv") scores and participation rates by state for the graduating class of 2017
 
 ### Data Sources
-SAT: https://blog.prepscholar.com/average-sat-scores-by-state-most-recent
+SAT: https://blog.prepscholar.com/average-sat-scores-by-state-most-recent   
 ACT: https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows
 
 ### To Start:
